@@ -9,7 +9,7 @@ on:
       - master
       - releases/*
 
-jobs:
+jobs: 
   build:
     runs-on: ${{ matrix.operating-system }}
     strategy:
