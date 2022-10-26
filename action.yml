@@ -1,6 +1,6 @@
-name: 'Setup Lazarus environment'
+name: 'Lazbuild x32'
 
-description: 'Setup a Lazarus environment adding it to the PATH'
+description: 'teste'
 
 branding:
   icon: 'chevrons-right'
