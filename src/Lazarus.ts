@@ -42,7 +42,7 @@ const pkgs: object = {
     "win64": {
         "v2_2_2"  : "lazarus-2.2.2-fpc-3.2.2-win64.exe",
         "v2_2_0"  : "lazarus-2.2.0-fpc-3.2.2-win64.exe",
-        "v2_0_12" : "lazarus-2.0.12-fpc-3.2.0-win64.exe",
+        "v2_0_12" : "lazarus-2.0.12-fpc-3.2.0-win32.exe",
         "v2_0_10" : "lazarus-2.0.10-fpc-3.2.0-win64.exe",
         "v2_0_8"  : "lazarus-2.0.8-fpc-3.0.4-win64.exe",
         "v2_0_6"  : "lazarus-2.0.6-fpc-3.0.4-win64.exe",
